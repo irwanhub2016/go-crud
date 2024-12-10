@@ -1,0 +1,24 @@
+# Go binaries
+*.exe
+*.out
+*.test
+
+# Go workspace
+/.vscode
+/.idea
+/.go
+/.gopath
+
+# Build artifacts
+/bin/
+/obj/
+
+/.env # If you're using an env file for sensitive data
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
